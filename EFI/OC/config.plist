@@ -1076,11 +1076,11 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02908600QXLNV9FB</string>
+			<string>FillWithYourOwn</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
-			<integer>4105</integer>
+			<integer>0</integer>
 			<key>ROM</key>
 			<data></data>
 			<key>SpoofVendor</key>
@@ -1088,11 +1088,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>FillWithYourOwn</string>
 			<key>SystemSerialNumber</key>
-			<string>C02Y9VYGJV3Q</string>
+			<string>FillWithYourOwn</string>
 			<key>SystemUUID</key>
-			<string>B5740335-7EEE-4412-8FFB-7CBC365749E3</string>
+			<string>FillWithYourOwn</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
