@@ -12,6 +12,6 @@ For confidentiality reasons, I filled out `Platforminfo` section. You may fill i
 # Thanks
 Special thanks to @chris1111 for having provided his awesome programs that really helped me :
 - **Opencore Creator:** https://github.com/chris1111/OpenCore-Creator
-- **Opencore Config Verificator** https://www.hackintosh-montreal.com/t11444-config-validateur?highlight=opencore+config+verif
+- **Opencore Config Verificator** https://www.hackintosh-montreal.com/t11444-config-validateur
 
 Have much fun and success in hackintoshing!
