@@ -1,6 +1,6 @@
 # About
 I am providing here my Hackintosh EFI folder updated to macOS Ventura Beta 1 working for my config whose specs are the following:
-- **[Motherboard]** Gigabyte Z390M Gaming
+- **[Motherboard]** Gigabyte Z390M Gaming (**UPDATED TO F9 VERSION, VENTURA WON'T BOOT OTHERWISE**)
 - **[Processor]** Intel i5-9600k (coffee lake)
 - **[Graphics Card]** Radeon RX580 8G
 
